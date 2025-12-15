@@ -35,6 +35,7 @@ model.txt
 Trong file có link Google Drive để tải model đã train.
 
 Sau khi tải về, đặt model vào đúng thư mục theo hướng dẫn trong code.
+
 3 Dữ liệu đầu vào BraTs2020
 https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation
 
