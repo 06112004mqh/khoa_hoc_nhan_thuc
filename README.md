@@ -43,7 +43,7 @@ https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation
 4. Kết quả khi chạy model
 <img width="1139" height="241" alt="image" src="https://github.com/user-attachments/assets/0a416616-c897-40c9-bf0c-a10e8225e8f1" />
 
-5. Báo cáo
+5. Báo cáo final_khnt.pdf
    
 ⚙️ Yêu cầu môi trường
 
