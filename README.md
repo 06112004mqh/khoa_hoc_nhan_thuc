@@ -38,6 +38,8 @@ Sau khi tải về, đặt model vào đúng thư mục theo hướng dẫn tron
 
 3 Dữ liệu đầu vào BraTs2020
 https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation
+4. Kết quả khi chạy model
+<img width="1139" height="241" alt="image" src="https://github.com/user-attachments/assets/0a416616-c897-40c9-bf0c-a10e8225e8f1" />
 
 ⚙️ Yêu cầu môi trường
 
